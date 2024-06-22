@@ -10,4 +10,4 @@ TOOLS USED:*JAVA(eclipse)**MYSQL.
 
 CONTACT DETAILS:sreemathi.22cse@sonatech.ac.in
                  subashree.22cse@sonatech.ac.
-                TEAM LEAD:vedaprakash.22cse@sonatech.ac.in
+               
